@@ -1,0 +1,19 @@
+TAMIL WIKIPEDIA DATASET STATISTICS
+======================================================================
+
+Total Articles: 300,569
+Total Characters: 426,234,604
+Total Words (approx): 54,358,270
+Total Size: 948.31 MB
+
+AVERAGES
+  Characters per article: 1,418
+  Words per article: 181
+  Lines per article: 20.9
+
+SIZE DISTRIBUTION
+  tiny           : 137,792 (45.84%)
+  small          : 110,833 (36.87%)
+  medium         : 47,099 (15.67%)
+  large          :  4,511 ( 1.50%)
+  very_large     :    334 ( 0.11%)
