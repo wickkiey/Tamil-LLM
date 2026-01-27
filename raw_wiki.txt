@@ -1,0 +1,144 @@
+{{Infobox islands
+| name             = இலங்கை
+| image name       = 
+| image caption    = Map Sri Lanka
+| image size       =
+| locator map      = {{Location map|Indian Ocean|caption=|float=center|lat=7|long=81}}
+| map caption      = Location of Sri Lanka in the Indian Ocean
+| native name      = 
+| native name link = 
+| nickname         = Pearl of the Indian Ocean
+| location         = [[இந்தியப் பெருங்கடல்]]
+| coordinates      = {{coord|7|N|81|E|display=inline}}
+| archipelago      =
+| total islands    =
+| major islands    =
+| area_km2         = 65610
+| rank             = 25th
+| length_km        =
+| width_km         =
+| coastline_km     = 1340
+| highest mount    = [[பிதுருதலாகலை]]
+| elevation_m      = 2524.13
+| country          = [[இலங்கை]]
+| country admin divisions title     =
+| country admin divisions           =
+| country admin divisions title 1   =
+| country admin divisions 1         =
+| country admin divisions title 2   =
+| country admin divisions 2         =
+| country largest city              = [[கொழும்பு]]
+| country largest city population   = 752,993
+| population       = 20,277,597
+| population as of = 2012
+| density_km2      = 323
+| ethnic groups    = [[சிங்களவர்]] – 75%,<br>[[இலங்கைத் தமிழர்]] – 11%,<br>[[இலங்கைச் சோனகர்]] 9%
+| additional info  =
+}}
+[[படிமம்:Topography Sri Lanka.jpg|thumb|300px|right|இலங்கையின் புவியியல் அமைப்பு அல்லது நிலவமைப்புப் படம்]]
+
+இலங்கை, இந்தியாவுக்குத் தெற்கே, இந்தியப் பெருங்கடலிலுள்ள ஒரு தீவு நாடாகும்.<ref name=":0">{{Cite web|date=May 11, 2021|title=Sri Lanka|url=https://www.cia.gov/the-world-factbook/countries/sri-lanka/|url-status=live|access-date=May 14, 2021|website=[[The World Factbook]]|publisher=[[Central Intelligence Agency]]|postscript=. {{PD-notice}}}}</ref><ref name="jc">{{cite web|title=Joshua Calder's World Island Info – Largest Islands of the World|url=http://www.worldislandinfo.com/LARGESTV1.html|url-status=live|access-date=2016-01-30|publisher=Worldislandinfo.com|postscript=.{{unreliable source|date=May 2021}}}}</ref><ref>{{Cite web |url=https://www.jpp.co.jp/lanka/geo/geote/geo05e.htm |access-date=2023-04-14 |website=www.jpp.co.jp}}</ref>
+
+{| class="toccolours" border="1" cellpadding="4" style="float: right; margin: 0 0 1em 1em; width: 250px; border-collapse: collapse; font-size: 95%;padding:0.1em"
+|-
+| colspan="2" style="margin-left: inherit;background:#077cd0; color:white; font-size: 1.5em; text-align:center" | '''இலங்கை புவியியல்'''
+
+|-
+|'''[[புவியியல்]] ஆள்கூறுகள்'''
+|7 00 வ, 81 00 கி
+
+|-
+|'''பரப்பளவு'''
+|65,610 ச.கி.மீ.
+|-
+|'''நிலப்பரப்பளவு
+|64,740 ச.கி.மீ.
+|-
+|நீர்ப்பரப்பளவு
+|870 ச.கி.மீ.
+|-
+
+|கரையோர நீளம்
+|1,340 கி.மீ.
+|-
+
+|நில எல்லைகள்
+|0 கி.மீ.
+|-
+
+|}
+
+== கடல்சார் உரிமைகள் ==
+தொடர்ச்சியான பகுதியாக (contiguous zone) 24 [[கடல் மைல்]] தொலைவையும், கண்டமேடையாக 200 கடல் மைல் தூரத்தையும் கொண்டுள்ளது.
+
+'''கடல்சார் உரிமைகள்:'''
+<br />''தொடர்ச்சியான பகுதி:''
+24 கடல் மைல் (nm)
+<br />''[[கண்ட மேடை]]:''
+200 கடல் மைல் (nm)
+<br />''பிரத்தியேக [[பொருளாதாரம்|பொருளாதார]] வலயம்:''
+200&nbsp;nm
+<br />''பிரதேச கடல்:''
+12&nbsp;nm
+
+'''[[காலநிலை]]:'''
+tropical பருவப் பெயர்ச்சிக் காற்று; வடகீழ்ப் பருவப் பெயர்ச்சிக் காற்று(டிசம்பரிலிருந்து மார்ச் வரை); தென்மேற் பருவப் பெயர்ச்சிக் காற்று(ஜூனிலிருந்து அக்டோபர் வரை)
+
+'''நிலத்தோற்றம்:'''
+பெரும்பாலும் தாழ்வானது, தட்டை முதல் சிற்றளவான ஏற்ற இறக்கங்கள் கொண்டது; மலைகள் தெந் மத்திய பகுதியில்.
+
+'''நிலைப்பட அந்தலைகள்:'''
+<br />''மிகத் தாழ்ந்த புள்ளி:''
+[[இந்து சமுத்திரம்]] 0 m
+<br />''அதியுயர் புள்ளி:''
+[[பிதுருதலாகலை]] 2,524 m
+
+'''இயற்கை வளங்கள்:'''
+[[சுண்ணாம்பு]]க் கல், [[காரீயம்]], கனிம மணல்கள், [[இரத்தினக்கல்|இரத்தினங்]]கள், பொஸ்பேற்றுகள், களி, நீர் [[மின்சாரம்]]
+
+'''நிலப் பயன்பாடு:'''
+<br />''பயிர்த்தொழில் செய்யத்தக்க நிலம்:''
+14%
+<br />''நிலையான [[பயிர்]]:''
+15%
+<br />''நிலையான [[புல்வெளி]]கள்:''
+7%
+<br />''[[காடு]]களும் மரச்செறிவுகளும்:''
+32%
+<br />''ஏனையவை:''
+32% (1993 கணக்கீடு)
+
+'''[[நீர்ப்பாசனம்|நீர்ப்பாசன]]முள்ள நிலங்கள்:'''
+5,500 சது. கி.மீ.(1993 கணக்கீடு)
+
+'''இயற்கை அழிவுகள்:'''
+அவ்வப்போது தோன்றும் புயல்களும், சூறாவளிகளும்.
+
+'''சூழல் - தற்காலச் சிக்கல்கள்:'''
+[[காடழிப்பு]]; [[மண்ணரிப்பு]]; சட்டவிரோத [[வேட்டை]]யினாலும், [[நகராக்கம்|நகராக்க]]த்தினாலும், [[காட்டுயிர்|வனவிலங்குகள்]] ஆபத்துக்குள்ளாகியிருத்தல்; அகழ்வு நடவடிக்கைகளினாலும், அதிகரித்துவரும் மாசடைதலாலும், கரையோர degradation; தொழிற்சாலைக் கழிவுகளாலும், கழிவு நீர் கலத்தலாலும், [[நன்நீர்]] வளங்கள் மாசடைதல்; கழிவு அகற்றல்; கொழும்பில் காற்று மாசடைதல்.
+
+'''சுற்றுச்சூழல் - அனைத்துலக ஒப்பந்தங்கள்:'''
+<br />''party to:''
+உயிரினப் பன்வகைமை (Biodiversity), காலநிலை மாற்றம், பாலைவனமாதல், அழியும் நிலையிலுள்ள உயிரினங்கள், சுற்றுச் சூழல் மாற்றம், ஆபத்து விளைவிக்ககூடிய கழிவுகள், கடற் சட்டம், அணுவாயுத சோதனைத் தடை, ஓசோன் படலப் பாதுகாப்பு, கப்பல்கள் தொடர்பான மாசடைதல், ஈர நிலங்கள்.
+<br />''கையெழுத்திடப்பட்டது, ஆனால் ஏற்கப்படவில்லை:''
+கடல்வாழ் உயிரினப் பாதுகாப்பு
+
+== புவியியல் குறிப்புகள் ==
+* முக்கிய இந்தியப் பெருங்கடல் கடற்பாதைக்கு அண்மையிலுள்ள அமைவிடம்.
+* [[இந்து ஐதீகம்|இந்து தொல் நம்பிக்கைகளின்]]படி இராமபிரானால் கட்டப்பட்டதாகக் கருதப்படும் [[ஆதாம் பாலம்]] எனப்படும், இந்தியாவுடனான நிலத்தொடர்பு. இது தற்போது பெரும்பாலும் கடலுள் அமிழ்ந்தும் சில பகுதிகள் மட்டும் சங்கிலித் தொடர் போன்ற திட்டுகளாகக் [[கடல் மட்டம்|கடல் மட்ட]]த்துக்கு மேல் தெரியும் படியாகவும் அமைந்துள்ளது.
+
+== பின்வருவனவற்றையும் பார்க்கவும் ==
+* [[இலங்கை ஆள்கூறு]]
+* [[2000 இலங்கைச் சூறாவளி]]
+
+== உசாத்துணை ==
+{{reflist}}
+{{Commons category|Geography of Sri Lanka|position=right}}
+
+{{coord|7|00|N|81|00|E|type:country|display=title}}
+{{Geography of Sri Lanka}}
+
+==மேற்கோள்கள்==
+{{reflist}}
+
+[[பகுப்பு:இலங்கையின் புவியியல்| ]]
