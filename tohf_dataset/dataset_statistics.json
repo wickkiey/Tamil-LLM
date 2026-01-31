@@ -1,9 +1,9 @@
 {
-  "num_articles": 300569,
-  "total_characters": 426234604,
-  "avg_article_length": 1418.0923648147348,
-  "median_article_length": 598.0,
-  "min_article_length": 11,
-  "max_article_length": 780796,
-  "total_words_approx": 54358270
+  "num_articles": 171015,
+  "total_characters": 361734271,
+  "avg_article_length": 2115.219547992866,
+  "median_article_length": 1005.0,
+  "min_article_length": 111,
+  "max_article_length": 650799,
+  "total_words_approx": 46530033
 }
