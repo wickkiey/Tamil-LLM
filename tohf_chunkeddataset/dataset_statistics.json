@@ -1,0 +1,12 @@
+{
+  "num_chunks": 532233,
+  "total_characters": 368727334,
+  "avg_chunk_length": 692.7930699524456,
+  "median_chunk_length": 437.0,
+  "min_chunk_length": 5,
+  "max_chunk_length": 7999,
+  "total_words_approx": 47953853,
+  "avg_words_per_chunk": 90.09936061837578,
+  "chunks_with_metadata": 532233,
+  "chunks_with_metadata_percent": 100.0
+}

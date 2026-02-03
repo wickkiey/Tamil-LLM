@@ -1,0 +1,23 @@
+Tamil Wikipedia Chunked Dataset Statistics
+======================================================================
+
+Total Chunks: 532,233
+Total Characters: 368,727,334
+Total Words (approx): 47,953,853
+Total Size: 844.70 MB
+
+Chunk Statistics:
+  Average Length: 693 chars
+  Median Length: 437 chars
+  Min/Max: 5 / 7,999 chars
+
+Chunks with Metadata: 532,233 (100.0%)
+
+Length Distribution (percentiles):
+  10th: 146 chars
+  25th: 241 chars
+  50th: 437 chars
+  75th: 758 chars
+  90th: 1,355 chars
+  95th: 2,001 chars
+  99th: 6,013 chars
