@@ -4,6 +4,19 @@ __pycache__/
 *$py.class
 
 data/
+
+# Large model outputs and checkpoints
+outputs/
+checkpoints/
+models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+*.onnx
+*.h5
+
 # C extensions
 *.so
 

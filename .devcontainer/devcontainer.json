@@ -1,0 +1,28 @@
+{
+  "name": "Tamil-LLM (Unsloth GPU)",
+  "image": "unsloth/unsloth:latest",
+  "runArgs": [
+    "--gpus=all",
+    "--ipc=host",
+    "--shm-size=16g"
+  ],
+  "remoteUser": "root",
+  "containerEnv": {
+    "HF_HOME": "/workspace/.cache/huggingface",
+    "TOKENIZERS_PARALLELISM": "false"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "ms-vscode-remote.remote-containers"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/bin/python3",
+        "jupyter.askForKernelRestart": false
+      }
+    }
+  },
+  "postCreateCommand": "python3 -m pip install -U pip ; python3 -m pip install -r .devcontainer/requirements.txt"
+}

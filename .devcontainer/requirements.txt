@@ -1,0 +1,10 @@
+datasets
+trl
+peft
+accelerate
+bitsandbytes
+xformers
+huggingface_hub
+sentencepiece
+protobuf
+ipywidgets
