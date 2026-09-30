@@ -40,7 +40,7 @@ Base Model (Llama 3.1 8B)
   Phase 1: CPT ──────── tawiki_chunked.jsonl (532K chunks, 845MB Wikipedia)
        │
        ▼
-  Phase 2: Data Expansion ── CC-100 ta + IndicCorp + OSCAR ta (all free HF)
+  Phase 2: Data Expansion + CPT v2 ── CC-100 ta + IndicCorp + OSCAR ta
        │
        ▼
   Phase 3: Synthetic Data ── Local Ollama (no API cost) → 50K instruction pairs
@@ -67,6 +67,7 @@ Base Model (Llama 3.1 8B)
 **Status: ✅ Done**
 
 - `plan/ROADMAP.md` — this file
+- `TRAINING.md` — end-to-end execution guide
 - Folder skeleton created: `continual-pretraining/`, `evaluation/`, `finetuning/`
 
 ---
@@ -110,6 +111,8 @@ Deduplication: MinHash LSH (`datasketch`)
 Quality filter: Tamil Unicode ratio >80%, length >50 chars  
 Final mix: 40% Wikipedia + 30% IndicCorp + 20% CC-100 + 10% OSCAR
 
+After publishing the expanded corpus, repeat Phase 1 from the CPT v1 checkpoint with a new v2 output name. Phase 4 should start from this latest CPT checkpoint.
+
 ---
 
 ## Phase 3 — Synthetic Instruction Data (Local, Free)
@@ -136,7 +139,7 @@ Filter: Tamil script ratio >70%, response length >20 chars
 ## Phase 4 — SFT (Supervised Fine-tuning)
 **File**: `finetuning/02_sft_instruction_tuning.ipynb`  
 **Hardware**: Colab 40GB  
-**Starts from**: Phase 1 CPT checkpoint
+**Starts from**: Latest Phase 1 CPT checkpoint (v1, or v2 after data expansion)
 
 ### Training Data Mix
 | Source | Size | Format |
@@ -227,6 +230,7 @@ Run all tasks on:
 ```
 plan/
   ROADMAP.md                                    ← this file
+TRAINING.md                                     ← end-to-end execution guide
 continual-pretraining/
   01_cpt_llama31_8b.ipynb                       ← Phase 1: CPT
   02_data_expansion_pipeline.ipynb              ← Phase 2: Data expansion
