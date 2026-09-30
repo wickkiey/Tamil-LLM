@@ -111,7 +111,7 @@ Deduplication: MinHash LSH (`datasketch`)
 Quality filter: Tamil Unicode ratio >80%, length >50 chars  
 Final mix: 40% Wikipedia + 30% IndicCorp + 20% CC-100 + 10% OSCAR
 
-After publishing the expanded corpus, repeat Phase 1 from the CPT v1 checkpoint with a new v2 output name. Phase 4 should start from this latest CPT checkpoint.
+After publishing the expanded corpus, repeat Phase 1 from the base model with a new v2 output name. This avoids stacking a new LoRA adapter on the v1 adapter. Phase 4 should start from the latest CPT checkpoint.
 
 ---
 

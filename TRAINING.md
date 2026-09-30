@@ -46,10 +46,10 @@ Run `continual-pretraining/02_data_expansion_pipeline.ipynb` to combine Wikipedi
 Then rerun `continual-pretraining/01_cpt_llama31_8b.ipynb` with:
 
 - `HF_DATASET = "wickkiey/tamil-corpus-expanded"`
-- `MODEL_NAME` set to the Phase 1 CPT checkpoint
+- `MODEL_NAME` left on the planned Unsloth base model
 - new `OUTPUT_DIR` and `HF_REPO` values, such as `outputs/cpt_v2` and `wickkiey/tamil-llama-3.1-8b-cpt-v2`
 
-Use the resulting v2 checkpoint for SFT. Do not overwrite the Phase 1 checkpoint.
+This reruns CPT from the base model on the complete expanded mix; it does not stack a second LoRA adapter on the v1 adapter. Use the resulting v2 checkpoint for SFT, and do not overwrite the Phase 1 checkpoint.
 
 ## 5. Generate instruction data
 
